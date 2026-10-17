@@ -1,3 +1,7 @@
+Try it out:
+https://mr-news-ashy.vercel.app/
+
+
 The AI Newsletter That Reads Itself
 
 Six hundred sources. Seven stories. Five minutes. MR NEWS is an autonomous intelligence pipeline that reads the world news so you do not have to, delivering a high signal briefing straight to subscriber inboxes every evening at 22:00 IST.
